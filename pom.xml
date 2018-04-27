@@ -17,6 +17,7 @@
         <module>microservice-consumer-movie-ribbon-with-hystrix</module>
         <module>microservice-hystrix-dashboard</module>
         <module>microservice-hystrix-turbine</module>
+        <module>microservice-api-gateway</module>
     </modules>
     <packaging>pom</packaging>
 
